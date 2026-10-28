@@ -1,0 +1,52 @@
+À la une - Tendances.jpg  <-  Oppenheimer
+À la une - Populaires.jpg  <-  Inception
+À la une - Nouveautés.jpg  <-  Dune : Deuxième Partie
+À la une - Prochainement.jpg  <-  Avatar : De feu et de cendres
+À la une - Tops.jpg  <-  Le Parrain
+Plateformes - Netflix.jpg  <-  Stranger Things
+Plateformes - Prime Video.jpg  <-  The Boys
+Plateformes - Disney+.jpg  <-  The Mandalorian
+Plateformes - HBO Max.jpg  <-  House of the Dragon
+Plateformes - Apple TV+.jpg  <-  Severance
+Plateformes - Paramount+.jpg  <-  Yellowstone
+Plateformes - MyCanal.jpg  <-  Le Bureau des légendes
+Plateformes - Crunchyroll.jpg  <-  One Piece
+Plateformes - TF1+ et M6+.jpg  <-  Profilage
+Films - Action.jpg  <-  Mad Max: Fury Road
+Films - Comédie.jpg  <-  Intouchables
+Films - Romance.jpg  <-  La La Land
+Films - Horreur.jpg  <-  Hereditary
+Films - Thriller.jpg  <-  Se7en
+Films - Science-fiction.jpg  <-  Interstellar
+Films - Fantaisie.jpg  <-  Le Seigneur des anneaux : La Communauté de l'anneau
+Films - Drame.jpg  <-  Les Évadés
+Films - Animation.jpg  <-  Spider-Man : New Generation
+Séries - Action.jpg  <-  Reacher
+Séries - Comédie.jpg  <-  Brooklyn Nine-Nine
+Séries - Romance.jpg  <-  La Chronique des Bridgerton
+Séries - Horreur.jpg  <-  The Haunting of Hill House
+Séries - Thriller.jpg  <-  Mindhunter
+Séries - Science-fiction.jpg  <-  Dark
+Séries - Fantaisie.jpg  <-  Game of Thrones
+Séries - Drame.jpg  <-  Breaking Bad
+Séries - Animation.jpg  <-  Arcane
+Anime - Populaires.jpg  <-  Jujutsu Kaisen
+Anime - Nouveautés.jpg  <-  Solo Leveling
+Anime - Action.jpg  <-  Demon Slayer
+Anime - Comédie.jpg  <-  KonoSuba
+Anime - Romance.jpg  <-  Kaguya-sama: Love Is War
+Anime - Fantaisie.jpg  <-  Frieren
+Anime - Science-fiction.jpg  <-  Sword Art Online
+Anime - Horreur.jpg  <-  Another
+Anime - Drame.jpg  <-  Violet Evergarden
+Studios - Marvel Studios.jpg  <-  Spider-man
+Studios - DC.jpg  <-  The flash
+Studios - Disney.jpg  <-  Le Roi lion
+Studios - Pixar.jpg  <-  Vice-versa
+Studios - DreamWorks Animation.jpg  <-  Dragons
+Studios - Illumination.jpg  <-  Moi, moche et méchant
+Studios - Studio Ghibli.jpg  <-  Le Voyage de Chihiro
+Studios - Lucasfilm.jpg  <-  Star Wars : Un nouvel espoir
+Studios - A24.jpg  <-  Everything Everywhere All at Once
+Studios - Blumhouse.jpg  <-  Get Out
+Studios - Warner Bros. Animation.jpg  <-  Batman : La Série animée
